@@ -71,7 +71,7 @@ h1,h2,h3{
 .navegacion__principal{
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 /*
 @media (min-width: 480px){
@@ -81,7 +81,7 @@ h1,h2,h3{
 @media (min-width: 768px){
     .navegacion__principal{
         flex-direction: row; /*investigar flex*/
-        justify-content: space-between;
+        justify-content: space-evenly;
     }
 }
 /*
@@ -109,7 +109,7 @@ h1,h2,h3{
 
 /* Banner */
 .banner{
-    background-image: url("../imagenes/dmtd3wp2.bmp");
+    background-image: url("assets/images/j4ym3jks.bmp");
     background-repeat: no-repeat;
     background-size: cover;
     height: 250px;
