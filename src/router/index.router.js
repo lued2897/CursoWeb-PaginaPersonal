@@ -22,6 +22,11 @@ const router = createRouter({
           name: 'Contacto',
           component: () => import('../views/Contacto.vue'),
         },
+        {
+          path: '/ref',
+          name: 'ref',
+          component: () => import('../views/ref.vue'),
+        },
     ]
 })
 

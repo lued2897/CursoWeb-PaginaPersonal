@@ -2,6 +2,11 @@ const plugin = require('tailwindcss/plugin')
 
 module.exports = plugin(function({ addComponents, theme }){
     addComponents({
+        ".h1title":{
+            margin: "2rem auto 2rem auto ",
+            color: theme("colors.pink.500"),
+            fontSize: "4rem",
+        },
         ".mainContainer":{
             maxWidth: "120rem",
             margin: "2rem auto 6rem auto",
@@ -13,7 +18,10 @@ module.exports = plugin(function({ addComponents, theme }){
             height: "auto",
             minHeight: "60rem",
             borderRadius: '2rem',
-            backgroundColor: theme("colors.palette.500"),
+            backgroundColor: theme("colors.gray.950"),
+            borderWidth: "2px",
+            borderColor: theme("colors.gray.800"),
+            color: "white",
             ".mainContainer__textBoxes":{
                 maxWidth: "60%",
                 margin: "8rem 4rem 8rem 4rem",

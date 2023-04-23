@@ -4,7 +4,7 @@ import navbar from "../components/container/NavBar.vue"
 
 <template>
     <navbar></navbar>
-    Contacto
+    <h1 class="h1title"> Contacto:</h1>
     <div class="mainContainer">
         a
     </div>

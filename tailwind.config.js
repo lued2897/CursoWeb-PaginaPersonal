@@ -31,11 +31,16 @@ export default {
           900: '#084C61',
         }
       },
+      screens:{
+        'sm': '144px',
+        'md': '640px',
+      },
     },
   },
   plugins: [
     require("./src/theme/navbar.js"),
-    require("./src/theme/mainContainer.js")
+    require("./src/theme/mainContainer.js"),
+    require("./src/theme/card.js")
   ],
 }
 
