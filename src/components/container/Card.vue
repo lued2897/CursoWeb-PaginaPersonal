@@ -1,10 +1,10 @@
 <script setup>
-    //import Button from '../base/Button.vue'
     defineProps({
         url: String,
         title: String,
         description: String,
-        link: String
+        link: String,
+        buttonText: String,
     })
 </script>
 
@@ -20,7 +20,7 @@
             <section class="card__container--footer">
                 <a :href="link"
                 class="footer--git bg-pink-500 hover:bg-pink-400 p-3 text-center"
-                >GitHub</a>
+                >{{ buttonText }}</a>
             </section>
         </div>
     </div>

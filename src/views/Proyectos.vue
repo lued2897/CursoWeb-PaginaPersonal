@@ -13,7 +13,8 @@ import  Card from "../components/container/Card.vue"
                 :url = "'../../../src/assets/images/jill-stingray-va11halla.gif'"
                 :title = "'titulo1'"
                 :description="'Lorem ipsum dolor sit amet consectetur adipisicing elit. At deserunt voluptate sit incidunt, porro non illum officia numquam consequatur asperiores.'"
-                :link = "'https://github.com/lued2897'">
+                :link = "'https://github.com/lued2897'"
+                :buttonText= "'GitHub'">
                     
                 </card>
             </div>
@@ -22,7 +23,8 @@ import  Card from "../components/container/Card.vue"
                 :url = "'../../../src/assets/images/jill-stingray-va11halla.gif'"
                 :title = "'titulo2'"
                 :description="'Lorem ipsum dolor sit amet consectetur adipisicing elit. At deserunt voluptate sit incidunt, porro non illum officia numquam consequatur asperiores.'"
-                :link = "'https://github.com/lued2897'">
+                :link = "'https://github.com/lued2897'"
+                :buttonText= "'GitHub'">
                 
                 </card>
             </div>
@@ -31,18 +33,26 @@ import  Card from "../components/container/Card.vue"
                 :url = "'../../../src/assets/images/jill-stingray-va11halla.gif'"
                 :title = "'titulo3'"
                 :description="'Lorem ipsum dolor sit amet consectetur adipisicing elit. At deserunt voluptate sit incidunt, porro non illum officia numquam consequatur asperiores.'"
-                :link = "'https://github.com/lued2897'">
+                :link = "'https://github.com/lued2897'"
+                :buttonText= "'GitHub'">
                     
                 </card>
             </div>
             <div>
-                <card
+                <card 
                 :url = "'../../../src/assets/images/jill-stingray-va11halla.gif'"
-                :title = "'titulo3'"
+                :title = "'titulo4'"
                 :description="'Lorem ipsum dolor sit amet consectetur adipisicing elit. At deserunt voluptate sit incidunt, porro non illum officia numquam consequatur asperiores.'"
-                :link = "'https://github.com/lued2897'">
+                :link = "'https://github.com/lued2897'"
+                :buttonText= "'GitHub'">
                     
                 </card>
+            </div>
+            <div>
+                
+            </div>
+            <div>
+
             </div>
         </section>
     </div>
