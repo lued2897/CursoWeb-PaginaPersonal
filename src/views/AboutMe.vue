@@ -19,8 +19,5 @@
         </div>
     </div>
 
-    <div class="bg-red-900 ">
-        hello world
-    </div>
 </template>
 
