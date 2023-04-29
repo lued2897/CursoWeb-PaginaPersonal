@@ -39,7 +39,7 @@
         </div>
         <div class="mainContainer__image">
             <img class="object-scale-down max-h-96 max-w-96 aspect-square rounded-3xl border"
-             src="../../../src/assets/images/AmigaPiedra.jpg" alt="">
+             src="../../src/assets/images/AmigaPiedra.jpg" alt="">
         </div>
     </div>
     
