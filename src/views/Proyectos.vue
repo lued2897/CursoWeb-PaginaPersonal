@@ -40,7 +40,7 @@ import  Card from "../components/container/Card.vue"
             </div>
             <div>
                 <card 
-                :url = "'../images/makinita.jpg'"
+                :url = "'/images/makinita.jpg'"
                 :title = "'Maquina expendedora (HTML)'"
                 :description="'Proyecto para el curso de diseño web'"
                 :link = "'https://github.com/lued2897/Proyecto-disenoWeb'"
