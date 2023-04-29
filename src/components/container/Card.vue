@@ -18,7 +18,7 @@
             </section>
             <p class="card__container--description">{{ description }}</p>
             <section class="card__container--footer">
-                <a :href="link"
+                <a v-if="buttonText" :href="link"
                 class="footer--git bg-pink-500 hover:bg-pink-400 p-3 text-center"
                 >{{ buttonText }}</a>
             </section>

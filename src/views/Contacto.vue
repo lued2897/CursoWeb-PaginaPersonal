@@ -14,7 +14,7 @@
             <a
                 class="block w-[33rem] rounded-xl border-[1px] border-gray-800 p-8 hover:bg-gradient-to-t bg-gray-950 transition ease-in-out
          from-gray-800/25 to-gray-950 to-70% hover:border-pink-500 hover:border-[1px] hover:shadow-lg hover:shadow-pink-500/25"
-                href="/"
+                href="https://github.com/lued2897"
             >
                 <h2 class="text-pink-500">GitHub</h2>
                 <img src="../assets/images/github-mark-white.svg"  alt="GitHub" class="h-10 mx-auto">
@@ -24,31 +24,31 @@
             <a
                 class="block w-[33rem] rounded-xl border-[1px] border-gray-800 p-8 hover:bg-gradient-to-t bg-gray-950 transition ease-in-out
          from-gray-800/25 to-gray-950 to-70% hover:border-pink-500 hover:border-[1px] hover:shadow-lg hover:shadow-pink-500/25"
-                href="/"
+                href="mailto:correoDeLalo@ejemplo.com"
             >
                 <h2 class="text-pink-500">Correo</h2>
                 <img src="../assets/images/icons8-gmail.svg"  alt="GitHub" class="h-10 mx-auto">
-                <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae quidem rerum facere quae placeat culpa quaerat!</p>
+                <p class="text-center">Contactame por correo electronico</p>
             </a>
 
             <a
                 class="block w-[33rem] rounded-xl border-[1px] border-gray-800 p-8 hover:bg-gradient-to-t bg-gray-950 transition ease-in-out
          from-gray-800/25 to-gray-950 to-70% hover:border-pink-500 hover:border-[1px] hover:shadow-lg hover:shadow-pink-500/25"
-                href="/"
+                href="https://www.facebook.com/"
             >
                 <h2 class="text-pink-500">Facebook</h2>
                 <img src="../assets/images/icons8-facebook.svg"  alt="GitHub" class="h-10 mx-auto">
-                <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum ut provident quas quidem amet! Necessitatibus, aliquam!</p>
+                <p class="text-center">Encuentrame en Facebook</p>
             </a>
 
             <a
                 class="block w-[33rem] rounded-xl border-[1px] border-gray-800 p-8 hover:bg-gradient-to-t bg-gray-950 transition ease-in-out
          from-gray-800/25 to-gray-950 to-70% hover:border-pink-500 hover:border-[1px] hover:shadow-lg hover:shadow-pink-500/25"
-                href="/"
+                href="https://twitter.com"
             >
                 <h2 class="text-pink-500">Twitter</h2>
                 <img src="../assets/images/icons8-twitter.svg"  alt="GitHub" class="h-10 mx-auto">
-                <p class="text-center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima voluptatum laudantium vitae veniam ullam molestiae dicta.</p>
+                <p class="text-center">Sigueme en twitter</p>
             </a>
 
         </div>

@@ -2,4 +2,4 @@
 
 - Perez Osorio Luis Eduardo
 
-## [Netlify (Incompleto)](https://main--rainbow-cobbler-798504.netlify.app)
+## [Netlify](https://main--rainbow-cobbler-798504.netlify.app)

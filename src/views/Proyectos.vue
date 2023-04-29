@@ -9,47 +9,47 @@ import  Card from "../components/container/Card.vue"
     <div class="mainContainer justify-center">
         <section class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             <div>
-                <card
-                :url = "'../../../src/assets/images/jill-stingray-va11halla.gif'"
-                :title = "'titulo1'"
-                :description="'Lorem ipsum dolor sit amet consectetur adipisicing elit. At deserunt voluptate sit incidunt, porro non illum officia numquam consequatur asperiores.'"
-                :link = "'https://github.com/lued2897'"
+                <card class="h-auto"
+                :url = "'../../../src/assets/images/tictactoe.png'"
+                :title = "'Juego de Gato (tic-tac-toe)'"
+                :description="'Juego de gato (tic-tac-toe) para el curso de desarrollo web'"
+                :link = "'https://github.com/KamCarrillo/ProyectoSemanal_TicTacToe/'"
                 :buttonText= "'GitHub'">
                     
                 </card>
             </div>
             <div>
-                <card
-                :url = "'../../../src/assets/images/jill-stingray-va11halla.gif'"
-                :title = "'titulo2'"
-                :description="'Lorem ipsum dolor sit amet consectetur adipisicing elit. At deserunt voluptate sit incidunt, porro non illum officia numquam consequatur asperiores.'"
-                :link = "'https://github.com/lued2897'"
+                <card class=""
+                :url = "'../../../src/assets/images/proyectopy.png'"
+                :title = "'Maquina expendedora (Python)'"
+                :description="'Proyecto para el curso de fundamentos de python'"
+                :link = "'https://github.com/Francisco-Galindo/ideal-potatodb'"
                 :buttonText= "'GitHub'">
                 
                 </card>
             </div>
             <div>
                 <card
-                :url = "'../../../src/assets/images/jill-stingray-va11halla.gif'"
-                :title = "'titulo3'"
-                :description="'Lorem ipsum dolor sit amet consectetur adipisicing elit. At deserunt voluptate sit incidunt, porro non illum officia numquam consequatur asperiores.'"
-                :link = "'https://github.com/lued2897'"
+                :url = "'../../../src/assets/images/proyectobd.png'"
+                :title = "'Base de datos Dystromachines'"
+                :description="'Proyecto para el curso de bases de datos'"
+                :link = "'https://github.com/Francisco-Galindo/UNICA-Proyecto-DB'"
                 :buttonText= "'GitHub'">
                     
                 </card>
             </div>
             <div>
                 <card 
-                :url = "'../../../src/assets/images/jill-stingray-va11halla.gif'"
-                :title = "'titulo4'"
-                :description="'Lorem ipsum dolor sit amet consectetur adipisicing elit. At deserunt voluptate sit incidunt, porro non illum officia numquam consequatur asperiores.'"
-                :link = "'https://github.com/lued2897'"
+                :url = "'../../../src/assets/images/makinita.jpg'"
+                :title = "'Maquina expendedora (HTML)'"
+                :description="'Proyecto para el curso de diseño web'"
+                :link = "'https://github.com/lued2897/Proyecto-disenoWeb'"
                 :buttonText= "'GitHub'">
                     
                 </card>
             </div>
             <div>
-                
+
             </div>
             <div>
 
