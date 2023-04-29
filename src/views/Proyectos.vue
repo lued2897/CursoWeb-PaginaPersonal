@@ -23,7 +23,7 @@ import  Card from "../components/container/Card.vue"
                 :url = "'/images/proyectopy.png'"
                 :title = "'Maquina expendedora (Python)'"
                 :description="'Proyecto para el curso de fundamentos de python'"
-                :link = "'https://github.com/Francisco-Galindo/ideal-potatodb'"
+                :link = "'https://github.com/Francisco-Galindo/ideal-potato'"
                 :buttonText= "'GitHub'">
                 
                 </card>
