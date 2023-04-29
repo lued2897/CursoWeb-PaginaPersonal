@@ -2,7 +2,6 @@
     import navbar from "../components/container/NavBar.vue"
     import {ref} from 'vue'
     import  Card from "../components/container/Card.vue"
-
     const showMichis= ref(false)
 
     const toggleMichis= () =>{
@@ -60,31 +59,31 @@
             
                 <div></div>
             <card class="min-w-[25rem] h-[31rem]"
-            :url="'../../src/assets/images/Elmichi.jpg'"
+            :url="'/images/Elmichi.jpg'"
             :title="'El Michi'"
             >
             </card>
 
             <card class="min-w-[25rem] h-[31rem]"
-            :url="'../../../src/assets/images/marcelo.jpg'"
+            :url="'/images/marcelo.jpg'"
             :title="'Marcelo'"
             >
             </card>
 
             <card class="min-w-[25rem] h-[31rem]"
-            :url="'../../../../src/assets/images/jolyne.jpg'"
+            :url="'images/jolyne.jpg'"
             :title="'Jolyne'"
             >
             </card>
 
             <card class="min-w-[25rem] h-[31rem]"
-            :url="'../../../../../src/assets/images/rei.jpg'"
+            :url="'/images/rei.jpg'"
             :title="'Rei Chiquita'"
             >
             </card>
 
             <card class="min-w-[25rem] h-[31rem]"
-            :url="'../../../../../../src/assets/images/Motomami.jpg'"
+            :url="'/images/Motomami.jpg'"
             :title="'La Motomami'"
             >
             </card>
