@@ -60,7 +60,7 @@
             
                 <div></div>
             <card class="min-w-[25rem] h-[31rem]"
-            :url="'../../../src/assets/images/Elmichi.jpg'"
+            :url="'../../src/assets/images/Elmichi.jpg'"
             :title="'El Michi'"
             >
             </card>
@@ -72,19 +72,19 @@
             </card>
 
             <card class="min-w-[25rem] h-[31rem]"
-            :url="'../../../src/assets/images/jolyne.jpg'"
+            :url="'../../../../src/assets/images/jolyne.jpg'"
             :title="'Jolyne'"
             >
             </card>
 
             <card class="min-w-[25rem] h-[31rem]"
-            :url="'../../../src/assets/images/rei.jpg'"
+            :url="'../../../../../src/assets/images/rei.jpg'"
             :title="'Rei Chiquita'"
             >
             </card>
 
             <card class="min-w-[25rem] h-[31rem]"
-            :url="'../../../src/assets/images/Motomami.jpg'"
+            :url="'../../../../../../src/assets/images/Motomami.jpg'"
             :title="'La Motomami'"
             >
             </card>
